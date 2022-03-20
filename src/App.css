@@ -1,0 +1,15 @@
+.App {
+  background-color: #c2c2d6;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#calculator-container{
+  height: 507px;
+  width: 332px;
+  background-color: #222222;
+  border-radius: 10px;
+}
